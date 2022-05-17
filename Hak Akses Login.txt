@@ -1,0 +1,9 @@
+﻿a. Login Admin
+   - Username	: admin
+   - Password	: 123
+b. Login Pelanggan
+   - Username	: genius_unlimited
+   - Password	: 123
+   atau
+   - Username	: ipeh
+   - Password	: 123
